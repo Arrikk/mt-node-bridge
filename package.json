@@ -1,0 +1,10 @@
+{
+  "name": "mt5-node-bridge-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TCP server bridge for the MT5 Node Bridge EA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
